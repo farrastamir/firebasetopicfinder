@@ -1,6 +1,6 @@
 {
   "emulators": {
-   "firestore": {
+    "firestore": {
       "port": 8080
     },
     "database": {
